@@ -1,0 +1,6 @@
+# Keep line endings exactly as they are in the repository, whatever git's Windows settings say.
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.exe binary
+*.png binary
+*.ico binary
